@@ -1,0 +1,9 @@
+lib/darknet/weights/yolov3-spp.weights filter=lfs diff=lfs merge=lfs -text
+lib/darknet/weights/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+lib/facenet/models/facenet/20180402/20180402.pb filter=lfs diff=lfs merge=lfs -text
+lib/facenet/models/facenet/20180402/model-20180402.ckpt-275.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+lib/facenet/models/facenet/20180408/20180408.pb filter=lfs diff=lfs merge=lfs -text
+lib/facenet/models/facenet/20180408/model-20180408.ckpt-90.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+lib/openface/models/dlib/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+lib/openface/models/openface/nn4.v1.t7 filter=lfs diff=lfs merge=lfs -text
+lib/openface/models/openface/nn4.v2.t7 filter=lfs diff=lfs merge=lfs -text
